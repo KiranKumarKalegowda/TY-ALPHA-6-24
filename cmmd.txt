@@ -1,0 +1,7 @@
+chkdsk -- clearing bad files
+sfc /scannow -- 
+
+
+
+
+pytest -- pip install pytest-html
